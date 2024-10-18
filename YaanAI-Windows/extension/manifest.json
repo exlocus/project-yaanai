@@ -1,0 +1,29 @@
+{
+    "manifest_version": 3,
+    "name": "YaanAI",
+    "version": "0.0.1",
+    "description": "YaanAI (Yaklass Answer AI) помогает с заданиями на YaKlass, предлагая шаги решения с помощью AI.",
+    "icons": {
+        "48": "assets/icon48.png",
+        "128": "assets/icon128.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "storage"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "assets/icon48.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://*.yaklass.ru/*"],
+            "js": ["content_script.js", "libs/jquery.min.js", "libs/jquery-ui.min.js"],
+            "css": ["content_script.css", "libs/jquery-ui.css"]
+        }
+    ]
+}
