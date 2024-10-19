@@ -41,7 +41,7 @@
 2. Щелкните правой кнопкой мыши на архив и выберите опцию **"Извлечь все..."** или используйте любую программу для разархивации, например, WinRAR или 7-Zip.
 3. Выберите папку, куда хотите сохранить распакованные файлы (например, создайте новую папку на рабочем столе).
 
-![Step2 Windows](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step1_windows.gif)
+![Step2 Windows](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step2_windows.gif)
 
 #### Шаг 3. Запуск приложения
 
