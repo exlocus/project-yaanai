@@ -1,6 +1,3 @@
-Here's a beautifully formatted `README.md` for your project **YaanAI**. This version enhances clarity and organization while maintaining the necessary details.
-
-```markdown
 # YaanAI - Расширение для ЯКласс
 
 ![YaanAI Logo](https://example.com/logo.png)  <!-- Optional: Add a logo URL here -->
