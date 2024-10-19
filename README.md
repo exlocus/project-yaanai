@@ -1,6 +1,6 @@
 # YaanAI - Расширение для ЯКласс
 
-![YaanAI Logo]([https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/logo.png?raw=true])
+![YaanAI Logo]([https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/logo.png])
 
 **YaanAI** — это расширение для браузера, которое интегрирует AI на платформе [ЯКласс](https://www.yaklass.ru). Расширение добавляет кнопку "Обдумать" рядом с кнопкой "Ответить", позволяя отправлять задание AI для анализа и получения помощи в его решении.
 
