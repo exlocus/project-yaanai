@@ -53,6 +53,8 @@
 
    Откроется консольное окно. Дождитесь, пока в окне будет написано `*Running on 127.0.0.1:5000`. Это значит, что сервер YaanAI успешно запущен и будет слушать на **http://localhost:5000**.
 
+![Step3 Windows](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step3_windows.gif)
+
 #### Шаг 4. Установка расширения в браузер
 
 Теперь установим расширение YaanAI в браузер.
