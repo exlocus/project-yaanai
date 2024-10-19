@@ -33,6 +33,8 @@
 
    Архив загрузится в папку **"Загрузки"** вашего компьютера.
 
+![Step1 Windows](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step1_windows.gif)
+
 #### Шаг 2. Разархивируйте архив
 
 1. Откройте папку **Загрузки** и найдите скачанный архив **YaanAI-Windows.zip**.
