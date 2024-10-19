@@ -74,6 +74,8 @@
 
 Если вы используете другой браузер, например **Firefox** или **Microsoft Edge**, найдите, как включить режим разработчика для вашего браузера.
 
+![Step4 Windows](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step4_windows.gif)
+
 ---
 
 ### Установка YaanAI на Android
