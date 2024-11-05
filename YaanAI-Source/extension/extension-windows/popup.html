@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+    <link rel="stylesheet" type="text/css" href="./popup.css" />
+  </head>
+  <body class="flex-column">
+    <div class="yaan-ai root">
+      <div class="main">
+        <div class="section"><div class="section__plate"></div></div>
+        <div class="section1"><div class="section__plate"></div></div>
+        <div class="section2">
+          <div class="section__plate1"></div>
+          <div class="section__text">Автоматическое выполнение заданий (WIP):</div>
+          <input type="checkbox" class="section__checkbox" id="autoSolve" />
+        </div>
+        <div class="section3">
+          <div class="section__plate1"></div>
+          <div class="section__text1">Модель AI:</div>
+          <select class="section__select" id="modelSelect">
+            <option value="gpt_4o">gpt_4o</option>
+            <option value="gpt_4o_mini">gpt_4o_mini</option>
+            <option value="gpt_3.5_turbo">gpt_3.5_turbo</option>
+            <option value="gemini">gemini</option>
+          </select>
+        </div>
+      </div>
+      <div class="header">
+        <div class="version">v0.0.2</div>
+        <div class="logo">
+          <p class="logo__highlight">YaanAI</p>
+          <div class="logo__info">by exLocus</div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="./popup.js"></script>
+</html>
