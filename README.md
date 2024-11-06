@@ -97,14 +97,7 @@
 3. Следуйте инструкциям, чтобы завершить установку и создать учетные данные для Ubuntu.
 4. После установки откройте терминал UserLAnd с Ubuntu.
 
-#### Шаг 2. Скачайте архив YaanAI
-
-1. В терминале UserLAnd выполните команду для загрузки архива YaanAI:
-   ```bash
-   wget https://github.com/exlocus/project-yaanai/releases/download/beta/server-android.zip
-   ```
-
-#### Шаг 3. Обновите и установите необходимые пакеты
+#### Шаг 2. Обновите и установите необходимые пакеты
 
 1. Выполните команду для обновления пакетов:
    ```bash
@@ -113,6 +106,13 @@
 2. Установите Python 3, pip и утилиту для распаковки:
    ```bash
    apt install python3 python3-pip unzip
+   ```
+
+#### Шаг 3. Скачайте архив YaanAI
+
+1. В терминале UserLAnd выполните команду для загрузки архива YaanAI:
+   ```bash
+   wget https://github.com/exlocus/project-yaanai/releases/download/beta/server-android.zip
    ```
 
 #### Шаг 4. Разархивируйте архив YaanAI
