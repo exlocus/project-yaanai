@@ -170,6 +170,8 @@
 
 Теперь расширение YaanAI установлено и готово к использованию в Kiwi Browser!
 
+![Step7 Android](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step7_android.gif)
+
 ---
 
 ## 🚫 Поддержка iOS
