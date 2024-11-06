@@ -97,6 +97,8 @@
 3. Следуйте инструкциям, чтобы завершить установку и создать учетные данные для Ubuntu.
 4. После установки откройте терминал UserLAnd с Ubuntu.
 
+![Step1 Android](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step1_android.gif)
+
 #### Шаг 2. Обновите и установите необходимые пакеты
 
 1. Выполните команду для обновления пакетов:
@@ -107,6 +109,7 @@
    ```bash
    sudo apt install python3 python3-pip unzip
    ```
+![Step2 Android](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step2_android.gif)
 
 #### Шаг 3. Скачайте архив YaanAI
 
@@ -114,6 +117,7 @@
    ```bash
    wget https://github.com/exlocus/project-yaanai/releases/download/beta/server-android.zip
    ```
+![Step3 Android](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step3_android.gif)
 
 #### Шаг 4. Разархивируйте архив YaanAI
 
@@ -125,6 +129,7 @@
    ```bash
    cd server-android
    ```
+![Step4 Android](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step4_android.gif)
 
 #### Шаг 5. Запустите установочный скрипт
 
@@ -138,6 +143,8 @@
    ```
    Это обновит переменные среды, чтобы команда `start-yaanai-service` заработала.
 
+![Step5 Android](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step5_android.gif)
+
 #### Шаг 6. Запустите YaanAI
 
 1. Чтобы запустить сервис YaanAI, выполните команду:
@@ -146,6 +153,8 @@
    ```
 
 Теперь сервер YaanAI запущен и доступен по адресу **http://localhost:5000**.
+
+![Step6 Android](https://github.com/exlocus/project-yaanai/blob/main/YaanAI-README-Images/step6_android.gif)
 
 #### Шаг 7. Установите расширение YaanAI в браузер Kiwi
 
