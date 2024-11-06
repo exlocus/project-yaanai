@@ -101,11 +101,11 @@
 
 1. Выполните команду для обновления пакетов:
    ```bash
-   apt update && apt upgrade
+   sudo apt update && sudo apt upgrade
    ```
 2. Установите Python 3, pip и утилиту для распаковки:
    ```bash
-   apt install python3 python3-pip unzip
+   sudo apt install python3 python3-pip unzip
    ```
 
 #### Шаг 3. Скачайте архив YaanAI
